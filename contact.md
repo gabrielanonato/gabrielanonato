@@ -1,8 +1,3 @@
----
-layout: page
-title: "Contact Me"
----
-
 Let's talk! :)
 
 - **Email:** gabriela.nonato-santos@outlook.com
