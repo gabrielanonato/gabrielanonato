@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: "Contact Me"
 ---
 
-Let's talk!
+Let's talk! :)
 
 - **Email:** gabriela.nonato-santos@outlook.com
 - **LinkedIn:** https://www.linkedin.com/in/gabrielanonatods/
