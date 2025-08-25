@@ -1,0 +1,31 @@
+title: "Gabriela Nonato — Data Analyst"
+description: "Data Analyst Portfolio · SQL · Python · Power BI · Tableau · ETL/ELT"
+url: ""  # set to your custom domain if using one
+baseurl: ""  # leave empty for user.github.io repo root
+theme: minima
+timezone: Europe/Dublin
+
+# Navigation (minima)
+header_pages:
+  - projects.md
+  - about.md
+  - contact.md
+
+minima:
+  social_links:
+    - {"platform":"github", "user_url":"<https://github.com/your-user>"}
+    - {"platform":"linkedin", "user_url":"<https://www.linkedin.com/in/your-profile/>"}
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# SEO
+plugins:
+  - jekyll-seo-tag
+
+# Collections (optional if you want to add blog later)
+# collections:
+#   posts:
+#     output: true
