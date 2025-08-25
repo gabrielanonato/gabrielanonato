@@ -3,7 +3,7 @@
 This repository contains my **Data Analyst Portfolio**, built with GitHub Pages + Jekyll.  
 It showcases projects in **SQL, Python, Power BI, Tableau, and ETL/ELT documentation**.  
 
-🌍 **Live Site:** [gabrielanonato.github.io](https://gabrielanonato.github.io)  
+**Live Site:** [gabrielanonato.github.io](https://gabrielanonato.github.io)  
 (or [Portfolio Subpage](https://gabrielanonato.github.io/gabrielanonato_portfolio) if you used a subfolder name)
 
 ---
@@ -23,7 +23,7 @@ It showcases projects in **SQL, Python, Power BI, Tableau, and ETL/ELT documenta
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Languages:** SQL, Python  
 - **BI Tools:** Power BI, Tableau, Excel  
 - **Data Workflows:** ETL/ELT, Process Documentation  
@@ -31,7 +31,7 @@ It showcases projects in **SQL, Python, Power BI, Tableau, and ETL/ELT documenta
 
 ---
 
-## 📬 Contact
+## Contact
 - 📧 Email: [gabriela.nonato-santos@outlook.com](mailto:gabriela.nonato-santos@outlook.com)  
 - 💼 LinkedIn: [linkedin.com/in/gabrielanonato](https://www.linkedin.com/in/gabrielanonato)  
 - 💻 GitHub: [github.com/gabrielanonato](https://github.com/gabrielanonato)  
