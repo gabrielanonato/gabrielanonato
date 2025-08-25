@@ -1,29 +1,43 @@
-# Data Analyst Portfolio — GitHub Pages (Jekyll, Minima)
+# Gabriela Nonato — Data Analyst Portfolio  
 
-A clean, recruiter-friendly portfolio template for data analysts. Built with **GitHub Pages** using the **minima** theme so you can deploy in minutes.
+This repository contains my **Data Analyst Portfolio**, built with GitHub Pages + Jekyll.  
+It showcases projects in **SQL, Python, Power BI, Tableau, and ETL/ELT documentation**.  
 
-## 🚀 Quick start
-1. Create a repo named `<your-user>.github.io` on GitHub.
-2. Download this template and push all files to that repo.
-3. In repo **Settings → Pages**, ensure "Deploy from branch" is enabled (default for user site).
-4. Your site will be live at `https://<your-user>.github.io`.
+🌍 **Live Site:** [gabrielanonato.github.io](https://gabrielanonato.github.io)  
+(or [Portfolio Subpage](https://gabrielanonato.github.io/gabrielanonato_portfolio) if you used a subfolder name)
 
-## 🛠 Customize
-- Edit `_config.yml` (title, description, links).  
-- Update `about.md` and `contact.md`.  
-- Replace placeholder links inside each project page.  
-- Drop screenshots into `assets/img/` and reference them like `/assets/img/your-image.png`.  
-- Add more projects by copying one of the files in `/projects` and updating the front matter.
+---
 
-## 🧩 Notes
-- This template uses the **minima** theme and `jekyll-seo-tag` plugin (both supported by GitHub Pages).  
-- If you use a **project site** instead of user site, set `baseurl: "/your-repo-name"` in `_config.yml` and prefix internal links with `{{ site.baseurl }}`.
+## 📂 Featured Projects
+- **E-commerce Sales Analysis (SQL + Power BI)**  
+  Analyzed 100k+ orders to identify top products, average order value, and seasonal trends.  
 
-## 🧪 Local preview (optional)
-If you want to run locally:
-```bash
-gem install bundler jekyll
-bundle init && bundle add jekyll minima jekyll-seo-tag
-bundle exec jekyll serve
-```
-Then open http://localhost:4000
+- **Customer Churn Prediction (Python + ML)**  
+  Built a predictive model to detect cancellation risk and suggest retention strategies.  
+
+- **HR Analytics Dashboard (Excel + Tableau)**  
+  Designed a dashboard to track turnover, diversity, and employee satisfaction.  
+
+- **Data Cleaning & ETL Documentation**  
+  Step-by-step process documentation for preparing datasets for analysis.  
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** SQL, Python  
+- **BI Tools:** Power BI, Tableau, Excel  
+- **Data Workflows:** ETL/ELT, Process Documentation  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 📬 Contact
+- 📧 Email: [gabriela.nonato-santos@outlook.com](mailto:gabriela.nonato-santos@outlook.com)  
+- 💼 LinkedIn: [linkedin.com/in/gabrielanonato](https://www.linkedin.com/in/gabrielanonato)  
+- 💻 GitHub: [github.com/gabrielanonato](https://github.com/gabrielanonato)  
+- 📍 Based in Dublin, Ireland (open to remote/hybrid roles across Europe)  
+
+---
+
+✨ Thanks for visiting my portfolio repository!  
+Feel free to reach out if you’d like to collaborate or discuss opportunities.  
