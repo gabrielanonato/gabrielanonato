@@ -1,9 +1,4 @@
----
-layout: home
-title: "Data Analyst Portfolio"
----
-
-# Gabriela Nonato — Data Analyst  
+# Gabriela Nonato — Data Analyst Portfolio
 
 > *I turn raw data into clear, actionable insights that help businesses grow.*  
 
