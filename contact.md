@@ -6,6 +6,6 @@ permalink: /contact/
 
 Let's talk!
 
-- **Email:** <add-your-email>
-- **LinkedIn:** <add-your-link>
+- **Email:** gabriela.nonato-santos@outlook.com
+- **LinkedIn:** https://www.linkedin.com/in/gabrielanonatods/
 - **Location:** Dublin, Ireland (open to EU/UK remote or hybrid)
